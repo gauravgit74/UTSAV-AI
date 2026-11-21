@@ -1,0 +1,6 @@
+{
+  "name": "Utsav AI",
+  "description": "AI-powered event and wedding planning workspace unifying venues, manpower, vendors, invitations, guests, budgets, timelines, and memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
